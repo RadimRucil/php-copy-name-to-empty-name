@@ -1,1 +1,1 @@
-Tetnto script slouží k přejmenování názvu výrobku v DB MySql. Zadá se hledaný výraz k nahrazení (hledá se bez rozlišení velkých či malých písmen) a následně se zadá výraz kterým má být nahrazen v přesném tvaru. Vybírá se v jaké jazykové verzi se výrazy hledají.
+Tento script slouží k doplnění názvu v DB PrestaShop všude tam, kde obsažen není. Defaultně se hledá v jazyce s id 2 (slovenština) a kopíruje se z jazyka 1.
